@@ -6,11 +6,11 @@ Componentes Clave:
 2.	Monetización sostenible ("EcoReels"): 8 ejes estratégicos incluyen alianzas gubernamentales, streaming, patrocinios verdes, festivales de cine, experiencias turísticas interactivas y apps gamificadas.
 3.	Impacto triple:
 
-o	Ambiental: Restauración de ecosistemas y captura de CO₂.
+    *	Ambiental: Restauración de ecosistemas y captura de CO₂.
 
-o	Social: Conexión cultura-naturaleza y empleo local.
+    *	Social: Conexión cultura-naturaleza y empleo local.
 
-o	Económico: Desarrollo de emprendimientos turísticos y modelos B2B.
+    *	Económico: Desarrollo de emprendimientos turísticos y modelos B2B.
 
 Tecnología:
 Edición manual y automatizada, georreferenciación, app con IA para rutas personalizadas y seguimiento de impacto ecológico.
