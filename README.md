@@ -5,8 +5,11 @@ Componentes Clave:
 1.	10 cortometrajes en locaciones icónicas de Colorado (ej: Montañas Rocosas, Mesa Verde), con narrativas que fusionan aventura, cultura ancestral y conservación.
 2.	Monetización sostenible ("EcoReels"): 8 ejes estratégicos incluyen alianzas gubernamentales, streaming, patrocinios verdes, festivales de cine, experiencias turísticas interactivas y apps gamificadas.
 3.	Impacto triple:
+
 o	Ambiental: Restauración de ecosistemas y captura de CO₂.
+
 o	Social: Conexión cultura-naturaleza y empleo local.
+
 o	Económico: Desarrollo de emprendimientos turísticos y modelos B2B.
 
 Tecnología:
