@@ -16,10 +16,7 @@ Scope:
 Scalable project with potential for replication in other states, aligned with sustainability and creative economy goals.
 
 Implementation:
-
     *	First phase: Creation of initial alliances (estimated time: 0-6 months).
-
     *	Second phase: Expansion (estimated time: 6-18 months).
-
     *	Third phase: Consolidation (estimated time: 18+ months).
 
