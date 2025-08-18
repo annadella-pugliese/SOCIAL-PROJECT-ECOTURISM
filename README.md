@@ -1,20 +1,21 @@
 # SOCIAL-PROJECT-ECOTURISM
-An innovative project creating short films with the support of AI technology, promoting sustainable ecotourism in the United States, starting in Colorado. As part of the "Your Green Footprint" initiative, tourists will participate in ecological restoration by planting native species and receive digital certificates with estimated CO₂ capture impact
+Innovative project creating short films with the support of AI technology, promoting sustainable ecotourism in the United States, starting in Colorado. As part of the "Your Green Footprint" initiative, tourists will participate in ecological restoration by planting native species supervised by the relevant authorities, receiving digital certificates with estimated CO₂ capture impact.
 
-Componentes Clave:
-1.	10 cortometrajes en locaciones icónicas de Colorado (ej: Montañas Rocosas, Mesa Verde), con narrativas que fusionan aventura, cultura ancestral y conservación.
-2.	Monetización sostenible ("EcoReels"): 8 ejes estratégicos incluyen alianzas gubernamentales, streaming, patrocinios verdes, festivales de cine, experiencias turísticas interactivas y apps gamificadas.
-3.	Impacto triple:
+Key Components:
+1.	10 short films in iconic Colorado locations (e.g., Rocky Mountains, Mesa Verde), with narratives that merge adventure, ancestral culture, and conservation
+2.	Sustainable Monetization ("EcoReels"): 8 strategic axes include government partnerships, streaming, green sponsorships, film festivals, and tourism experiences. Interactive and gamified applications
+3.	Triple Impact:
+    *	Environmental: Ecosystem restoration and CO₂ capture.
+    *	Social: Culture-nature connection and local employment.
+    *	Economic: Development of tourism ventures and B2B models.
 
-    *	Ambiental: Restauración de ecosistemas y captura de CO₂.
+Technology:
+Automated editing, georeferencing, AI-powered application for authorized personalized routes, and ecological impact monitoring.
 
-    *	Social: Conexión cultura-naturaleza y empleo local.
+Scope:
+Scalable project with potential for replication in other states, aligned with sustainability and creative economy goals.
 
-    *	Económico: Desarrollo de emprendimientos turísticos y modelos B2B.
-
-Tecnología:
-Edición manual y automatizada, georreferenciación, app con IA para rutas personalizadas y seguimiento de impacto ecológico.
-
-Alcance:
-Proyecto escalable con potencial de réplica en otros estados, alineado con objetivos de sostenibilidad y economía creativa
-
+Implementation:
+First phase: Creation of initial alliances (estimated time: 0-6 months)
+Second phase: Expansion (estimated time: 6-18 months)
+Third phase: Consolidation (estimated time: 18+ months)
