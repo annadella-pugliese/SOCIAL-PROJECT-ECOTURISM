@@ -21,6 +21,7 @@ Implementation:
 *	Third phase: Consolidation (estimated time: 18+ months).
 
 License 
+
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 What does this mean?
