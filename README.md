@@ -19,9 +19,10 @@ Implementation:
 *	First phase: Creation of initial alliances (estimated time: 0-6 months).
 *	Second phase: Expansion (estimated time: 6-18 months).
 *	Third phase: Consolidation (estimated time: 18+ months).
+  
 
 
-License 
+# LICENSE
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
