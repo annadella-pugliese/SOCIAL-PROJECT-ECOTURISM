@@ -25,9 +25,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 
 What does this mean?
 
-	You are free to: Share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material).
+1.	You are free to: Share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material).
 
-	Under the following terms:
+2.	Under the following terms:
 
     *	Attribution (BY): You must give appropriate credit, provide a link to the license, and indicate if changes were made.
     
