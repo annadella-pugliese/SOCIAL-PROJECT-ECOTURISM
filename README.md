@@ -1,4 +1,4 @@
-# SOCIAL-PROJECT-ECOTURISM
+# SOCIAL PROJECT ECOTURISM
 Innovative project creating short films with the support of AI technology, promoting sustainable ecotourism in the United States, starting in Colorado. As part of the "Your Green Footprint" initiative, tourists will participate in ecological restoration by planting native species supervised by the relevant authorities, receiving digital certificates with estimated CO₂ capture impact.
 
 Key Components:
