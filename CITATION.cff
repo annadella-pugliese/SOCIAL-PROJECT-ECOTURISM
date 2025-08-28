@@ -1,0 +1,60 @@
+# Versión obligatoria del estándar CFF
+cff-version: 1.2.0
+# Mensaje para humanos que vean el archivo
+message: "If you use this software, please cite the article using the following metadata"
+
+# --- CAMPOS PRINCIPALES (ESENCIALES) ---
+# Autores (Google Scholar los busca aquí y en el PDF)
+authors:
+  - family-names: "Pugliese Lares"
+    given-names: "Annadella"
+    affiliation: "Project Proposal"
+    orcid: "https://orcid.org/0009-0003-7831-0885"
+
+title: "ECO Reels: Raising Green Awareness Through Ecotourism in the US"
+version: v1.0 # Versión del documento
+abstract: "This project proposes a dynamic initiative to promote ecotourism across the United States, using Colorado as its initial pilot stage. Through the creation of a series of short films that combine powerful narratives with artificial intelligence technology, the project will highlight natural beauty, cultural diversity (including the heritage of indigenous communities), and the importance of environmental conservation. It promotes sustainable tourism and generates a positive social impact by integrating the "Your Green Footprint" program, which turns tourists into active agents of environmental restoration through the symbolic planting of native species. This initiative enriches the cultural and tourism sector, drives the socioeconomic development of the involved regions, and creates job opportunities for local communities."
+doi: "10.5281/zenodo.16972855" # ¡EL MÁS IMPORTANTE! Google Scholar lo ama.
+
+# --- CAMPOS DE CONTEXTO ACADÉMICO (Google Scholar los busca en la web) ---
+# Descomenta y usa los que apliquen:
+  type: Project in planning phase (pre-production) # Tipo de trabajo (article, book, conference-paper, etc.)
+# journal: # Para artículos de revista
+#   name: "Journal of Advanced Agricultural Technology"
+#   volume: 15
+#   issue: 2
+#   start: 1 # Página inicial
+#   end: 15 # Página final
+#   issn: "1234-5678"
+
+# conference: # Para papers de conferencia
+#   name: "International Conference on Agricultural AI"
+  location: "Colorado, United Estate"
+
+# publisher: # Editor o universidad
+#   name: "University Press"
+
+keywords: # Palabras clave para descubribilidad
+  - "ecotourism"  
+  - "environmental short films"  
+  - "artificial intelligence"  
+  - "sustainable tourism"  
+  - "environmental conservation"  
+  - "United States"  
+  - "Colorado"  - "national parks"  
+  - "ecological restoration"  
+  - "CO₂ capture"
+
+
+# --- CAMPOS DE FECHA Y LICENCIA ---
+date-released: 2025-08-27 # Fecha de publicación
+license: CC BY-NC 4.0 # Licencia del trabajo
+
+# --- URLS (Google Scholar necesita al menos el PDF URL) ---
+repository-url: "https://github.com/annadella-pugliese/social_project_ecoturism" # URL del código
+url: "https://github.com/annadella-pugliese/social_project_ecoturism/releases" # URL de la página del artículo
+# Nota: 'url' apunta a la página HTML, no al PDF. Para el PDF, se suele usar desde la web.
+
+# --- Campos de reconocimiento ---
+# acknowledge:
+#   - "Agradecemos al proyecto X por financiar esta investigación."
